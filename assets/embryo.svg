@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 580" role="img" aria-labelledby="title desc">
+ <title id="title">From a single cell to a developing embryo</title>
+ <desc id="desc">An abstract scientific illustration of early embryo cleavage stages, connected by a curved trajectory.</desc>
+ <defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf3ef"/><stop offset="1" stop-color="#b2d2c7"/></linearGradient>
+  <radialGradient id="c"><stop stop-color="#f6f9f5"/><stop offset=".72" stop-color="#cfe2d8"/><stop offset="1" stop-color="#92bdb1"/></radialGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="12"/></filter>
+ </defs>
+ <rect x="0" y="0" width="640" height="580" rx="32" fill="url(#g)"/>
+ <g opacity=".5" fill="none" stroke="#759d92"><circle cx="319" cy="285" r="224" stroke-width="1" stroke-dasharray="3 9"/><circle cx="319" cy="285" r="175" stroke-width="1"/><circle cx="319" cy="285" r="118" stroke-width="1" stroke-dasharray="2 7"/></g>
+ <path d="M100 405 C190 455 248 356 324 315 S468 197 538 151" fill="none" stroke="#2e665b" stroke-opacity=".45" stroke-width="2.5" stroke-dasharray="6 10"/>
+ <g transform="translate(130 399)"><circle r="62" fill="#5a8f80" opacity=".22" filter="url(#shadow)"/><circle r="57" fill="url(#c)" stroke="#568b7e" stroke-width="3"/><circle r="19" fill="#7da99c" opacity=".8"/><circle r="10" fill="#e6f1e9" opacity=".75"/></g>
+ <g transform="translate(310 320)"><circle r="78" fill="#528b7a" opacity=".19" filter="url(#shadow)"/><circle r="72" fill="#e6f1e8" stroke="#568b7e" stroke-width="3"/><path d="M310 248V392" stroke="#6c9d8e" stroke-width="2"/><g fill="url(#c)" stroke="#85aca0" stroke-width="2"><circle cx="278" cy="320" r="31"/><circle cx="342" cy="320" r="31"/></g><circle cx="278" cy="320" r="9" fill="#83aa9c"/><circle cx="342" cy="320" r="9" fill="#83aa9c"/></g>
+ <g transform="translate(486 183)"><circle r="85" fill="#528b7a" opacity=".19" filter="url(#shadow)"/><circle r="81" fill="#e7f0e9" stroke="#568b7e" stroke-width="3"/><g fill="url(#c)" stroke="#83aca0" stroke-width="1.8"><circle cx="-29" cy="-30" r="31"/><circle cx="30" cy="-30" r="31"/><circle cx="-29" cy="30" r="31"/><circle cx="30" cy="30" r="31"/></g><g fill="#699b8d"><circle cx="-29" cy="-30" r="9"/><circle cx="30" cy="-30" r="9"/><circle cx="-29" cy="30" r="9"/><circle cx="30" cy="30" r="9"/></g></g>
+ <g fill="#31574e" font-family="system-ui, sans-serif" font-size="15" letter-spacing="1"><text x="84" y="496">ZYGOTE</text><text x="273" y="426">2-CELL</text><text x="448" y="294">4-CELL</text></g>
+ <g fill="#5e867b" opacity=".7"><circle cx="67" cy="158" r="5"/><circle cx="86" cy="195" r="3"/><circle cx="553" cy="395" r="6"/><circle cx="520" cy="419" r="3"/><circle cx="202" cy="122" r="4"/></g>
+</svg>

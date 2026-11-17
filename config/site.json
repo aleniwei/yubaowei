@@ -1,0 +1,56 @@
+{
+  "display_name": "Yubao Wei",
+  "short_name": "Y. Wei",
+  "degree": "PhD",
+  "role": "Postdoctoral Researcher",
+  "affiliation": "Kyushu University",
+  "location": "Fukuoka, Japan",
+  "eyebrow": "EARLY DEVELOPMENT · EMBRYO ASSESSMENT · BIOETHICS",
+  "headline": "What can the earliest stages of life tell us?",
+  "introduction": "I study how molecular signals and developmental timing shape the earliest stages of mammalian life. My work brings together polar body biology, time-lapse imaging, and embryo phenotyping, alongside an interest in the ethical questions raised by reproductive technologies.",
+  "research_statement": "From the molecular contents of polar bodies to the timing of embryonic cleavage, my research explores how different lines of evidence can illuminate developmental competence—while recognizing the limits of inference and clinical translation.",
+  "email": "",
+  "orcid_url": "",
+  "scholar_url": "",
+  "researchmap_url": "",
+  "github_url": "",
+  "cv_pdf": "",
+  "portrait": "",
+  "domain": "https://weiyubao.pages.dev",
+  "career": [
+    {
+      "period": "2025 — Present",
+      "position": "Postdoctoral Researcher",
+      "institution": "Kyushu University",
+      "description": "Research on preimplantation development and approaches to embryo assessment."
+    },
+    {
+      "period": "Previous",
+      "position": "Reproductive Technology & Industry",
+      "institution": "Biomedical technology sector",
+      "description": "Professional experience connecting reproductive science, technology development, and industry practice."
+    },
+    {
+      "period": "Previous",
+      "position": "International Research Collaboration",
+      "institution": "University of California, Los Angeles",
+      "description": "Research collaboration and laboratory experience."
+    },
+    {
+      "period": "Previous",
+      "position": "Biomedical Research & Laboratory Management",
+      "institution": "Affiliated hospital of Zhengzhou University",
+      "description": "Developmental biology research and research-laboratory management."
+    },
+    {
+      "period": "Education",
+      "position": "Doctoral Training",
+      "institution": "Chinese Academy of Sciences",
+      "description": "Training in biological research and experimental methods."
+    }
+  ],
+  "notice": "Independent academic website. Views expressed here are my own and do not represent my institution.",
+  "hero_image": "assets/hero-embryo.webp",
+  "hero_caption": "Concept artwork — not experimental data",
+  "featured_quote": "Every early embryo has a history. The challenge is to understand what we can—and cannot—learn from its traces."
+}

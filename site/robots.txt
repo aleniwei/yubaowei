@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weiyubao.pages.dev/sitemap.xml
