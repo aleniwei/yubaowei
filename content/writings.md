@@ -31,7 +31,7 @@ subtitle = "Science writing, translated books"
 - Chief Science Popularization Expert of Henan Province (2017–2019).
 - Science Communication Award, Chinese Academy of Sciences (2015).
 
-## P Memberships
+## Memberships
 
 - Chinese Society of Reproductive Medicine (since 2016)
 - Genetics Society of China — Member (since 2014)
