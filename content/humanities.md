@@ -5,7 +5,7 @@ banner = "/images/humanities.webp"
 subtitle = "Science in dialogue with history, society and philosophy"
 +++
 
-## Selected Talks
+## Invited Talks
 
 - Poultry Welfare in Avian Influenza Control in Japan. The 11th China Ethics Conference and the 1st China Publishing Ethics Conference, Nanjing, Dec. 2025
 - Florence Nightingale's Contributions and Her Legacy in Nursing, Feb. 2019
