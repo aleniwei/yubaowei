@@ -1,0 +1,7 @@
+Cloudflare Pages → your existing yubaowei project → Settings → Build
+Build command: hugo --gc --minify
+Build output directory: public
+Root directory: (empty)
+Production branch: main
+Environment variable: HUGO_VERSION = 0.170.1
+Domain in hugo.toml: https://yubaowei.pages.dev/

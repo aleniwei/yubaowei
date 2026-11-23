@@ -1,0 +1,13 @@
+<main id="content" class="site-main">
+  <section class="hero" aria-label="{{ .Title }}">
+    <img class="hero-image" src="{{ .Params.banner | relURL }}" alt="" loading="eager" width="1600" height="331">
+    <div class="hero-shade" aria-hidden="true"></div>
+    <div class="hero-copy">
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.subtitle }}<p class="hero-subtitle">{{ . }}</p>{{ end }}
+    </div>
+  </section>
+  <article class="article-body">
+    {{ .Content }}
+  </article>
+</main>

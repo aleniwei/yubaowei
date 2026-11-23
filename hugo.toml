@@ -1,0 +1,40 @@
+# Site address. Keep this unchanged as long as Cloudflare Pages uses yubaowei.pages.dev.
+baseURL = 'https://yubaowei.pages.dev/'
+languageCode = 'en'
+title = 'Yubao WEI'
+# No external Hugo theme, plugin, or npm packages required.
+disableKinds = ['taxonomy', 'term', 'RSS']
+
+[markup.goldmark.renderer]
+  unsafe = false
+
+[[menus.main]]
+  name = 'Home'
+  identifier = 'home'
+  pageRef = '/'
+  weight = 10
+[[menus.main]]
+  name = 'Researches'
+  identifier = 'researches'
+  pageRef = '/researches'
+  weight = 20
+[[menus.main]]
+  name = 'Publications'
+  identifier = 'publications'
+  pageRef = '/publications'
+  weight = 30
+[[menus.main]]
+  name = 'Writings'
+  identifier = 'writings'
+  pageRef = '/writings'
+  weight = 40
+[[menus.main]]
+  name = 'Humanities'
+  identifier = 'humanities'
+  pageRef = '/humanities'
+  weight = 50
+[[menus.main]]
+  name = 'Avocations'
+  identifier = 'avocations'
+  pageRef = '/avocations'
+  weight = 60
