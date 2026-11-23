@@ -4,7 +4,7 @@ nav = "home"
 banner = "/images/home.webp"
 +++
 
-Yubao WEI, a scholar working at the intersection of embryonic development, reproductive medicine, and bioethics.
+Yubao WEI, a scholar working on Embryonic Development, Reproductive Medicine, and Bioethics.
 
 I was born in Henan, China, in the 1980s, a period of remarkable social and economic change. My father was a skilled carpenter, and my mother is a kind and hardworking woman. I left Nanyang to attend college, later studying in Shanghai and Beijing. In 2016, I earned my PhD at the Institute of Genetics and Developmental Biology (IGDB), Chinese Academy of Sciences, through research on preimplantation embryos and placental metabolism.
 
