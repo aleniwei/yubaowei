@@ -5,7 +5,7 @@ banner = "/images/publications.webp"
 subtitle = "Research papers, scientific presentations & symposia"
 +++
 
-## Papers & Book Chapters
+## Papers & Chapters
 
 - A Inoue, N Cheung, T Yamanouchi, H Matsuda, H Yoshioka, H Takeuchi, M Nishioka, M Yamamoto, Y Wei, K Houri, H Sato, R Guo, A Kamio, H Kobayashi, T Kono, K Matsumoto, K Miyamoto. Minimally invasive measurement of maternal transcripts enables predicting the developmental potential of mammalian zygotes. bioRxiv, 2026.06. 02.726088
 - Y Wei, A Inoue, K Miyamoto. From the Understanding of Maternal Molecules and Mechanisms to Predicting Embryonic Development. Reproductive Medicine and Biology, 2026, 25 (1), e70026
@@ -23,13 +23,10 @@ subtitle = "Research papers, scientific presentations & symposia"
 - Junfeng Hao, Wei Yubao Wei (co-first author), Ruiwen Chen. Progress in identifying Rheumatoid Arthritis susceptibility gene by genome-wide association study, Academic J of SMMU 2009, 30(11), 1303-7 (in Chinese)
 - Ruiwen Chen, Yubao Wei, Haiying Zhu. &lt;Chromosome, Gene and Disease&gt; Science Press, 2008 Nov. (in Chinese), Chapter 13: “The chromosome 13 and trisomy 13 Patau’s Disease”； Chapter 14: “The chromosome 14 and primary pigmentary degeneration of the retina”.
 
-## Conference Presentations
+## Presentations
 
 - Poster: A. Inoue et al. “Obtaining SNPs from Bovine Embryo Polar Body RNA-seq Data and Selecting Embryos with Specific SNPs” 134th Annual Meeting of the Japanese Society of Animal Science. Sept. 2026
 - Poster: R. Guo et al. “Establishment of a Model for Evaluating Embryonic Developmental Competence Using Minimally Invasive Maternal Transcript Detection and Machine Learning. 67th Annual Meeting of the Japan Society for Ova Research. June 2026
-
-### Presentations (continued)
-
 - Poster: Longhua Guo et al. “Island-specific evolution of a sex-primed autosome in the planarian Schmidtea mediterranea”. Population, Evolutionary, and Quantitative Genetics Conference, June 2022
 - “Gene-Edited Babies and Bioethical Reflections”. 15th Annual Meeting of Chinese Association of Medicine (CARM). Aug. 2022. Xiamen
 - “Methylation aberration of imprinted genes in IVF mouse pre…”. Annual Meeting of the Society of Family Planning and Reproductive Health. Jan. 2022. Nanjing.
@@ -45,7 +42,7 @@ subtitle = "Research papers, scientific presentations & symposia"
 - “The molecular cloning and function research of Sea snake neurotoxin analysis”. 8th Conference of the Genetics Society of China, Dec. 2008 Chongqing
 - “The Relationship Between Marine Plankton and Red Tides”. Academic Forum of SMMU, Oct. 2007. SMMU
 
-## Symposia & Meetings
+## Symposia & Workshops
 
 - The 20th Chongqing Conference on Assisted Reproductive Medicine, Sept 2018
 - The 18th Chongqing Conference on Assisted Reproductive Medicine, Joint Meeting with Alpha, Nov. 2016
