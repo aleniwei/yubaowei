@@ -6,13 +6,13 @@ banner = "/images/home.webp"
 
 Yubao WEI, a scholar working on Embryonic Development, Reproductive Medicine, and Bioethics.
 
-I was born in Henan, China, in the 1980s, a period of remarkable social and economic change. My father was a skilled carpenter, and my mother is a kind and hardworking woman. I left Nanyang to attend college, later studying in Shanghai and Beijing. In 2016, I earned my PhD at the Institute of Genetics and Developmental Biology (IGDB), Chinese Academy of Sciences, through research on preimplantation embryos and placental metabolism.
+I was born in Nanyang, China, in the 1980s, a period of dramatical social and economic changes. My father was a skilled carpenter; my mother is warm-hearted and diligent. After high school, I left Nanyang to attend college in Shanghai. In 2016, I earned my PhD at the Institute of Genetics and Developmental Biology (IGDB at Beijing), Chinese Academy of Sciences, through research on preimplantation embryos and placental lipid metabolism.
 
-After completing my PhD, I joined a large reproductive medicine center affiliated with Zhengzhou University, which performs approximately 7,000 IVF/ART (in vitro fertilization/assisted reproductive technology) cycles annually. As an assistant professor, I participated in several funded projects on preimplantation development and worked closely with physicians and nurses. I subsequently led marketing development for reproductive health products—including ovulation-related hormones, an app, and antibiotics—at an HKEX-listed pharmaceutical company. I also worked as a clinical embryologist at a fertility center in Guangdong Province, home to China’s largest number of fertility centers and ART cycles.
+After completing my PhD, I joined a large reproductive medicine center affiliated with Zhengzhou University, which performs approximately 7,000 IVF/ART (in vitro fertilization/assisted reproductive technology) cycles annually. As an assistant professor, I carried out several funded projects on preimplantation development and worked closely with physicians and nurses. subsequently I joined in an HKEX-listed pharmacy company, led marketing development for reproductive health products—including ovulation-related hormones, an ovulation app, and antibiotics. I also worked as a clinical embryologist at a fertility center in Guangdong Province, home to China’s largest number of fertility centers and ART cycles.
 
 During the COVID-19 period, I worked in the Department of Human Genetics at the David Geffen School of Medicine at UCLA, California. My research there involved two projects: placental organoid induction and the evolution of sex chromosomes in planarians.
 
-I moved to Osaka, Japan, in 2023 and later to Fukuoka, where I continue my academic work on embryo development and reproductive medicine. In this fast-moving field, where scientific advances raise profound human questions, an open mind and an interdisciplinary perspective remain essential.
+I moved to Osaka, Japan in 2023 and laterly to Fukuoka, where I continue my academic career on embryo development and reproductive medicine. In this fast-moving field, where scientific advances raise profound humanity questions, an open mind and an interdisciplinary perspective remain essential.
 
 ## Contact
 
