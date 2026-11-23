@@ -5,7 +5,7 @@ banner = "/images/publications.webp"
 subtitle = "Research papers, scientific presentations & symposia"
 +++
 
-## Papers & Chapters
+## Papers
 
 - A Inoue, N Cheung, T Yamanouchi, H Matsuda, H Yoshioka, H Takeuchi, M Nishioka, M Yamamoto, Y Wei, K Houri, H Sato, R Guo, A Kamio, H Kobayashi, T Kono, K Matsumoto, K Miyamoto. Minimally invasive measurement of maternal transcripts enables predicting the developmental potential of mammalian zygotes. bioRxiv, 2026.06. 02.726088
 - Y Wei, A Inoue, K Miyamoto. From the Understanding of Maternal Molecules and Mechanisms to Predicting Embryonic Development. Reproductive Medicine and Biology, 2026, 25 (1), e70026
