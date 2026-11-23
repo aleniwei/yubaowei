@@ -73,3 +73,19 @@ h1,h2,h3,p,ol,ul { margin-top: 0; }
   .page-writings .article-body > ul:first-of-type { columns: 1; }
 }
 @media(prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .reading-progress { transition: none; } }
+/* 六个网页正文左右两端对齐 */
+main p,
+main li {
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+    line-height: 1.8;
+}
+
+/* 标题保持左对齐 */
+main h1,
+main h2,
+main h3,
+main h4 {
+    text-align: left;
+}
