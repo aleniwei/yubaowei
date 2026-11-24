@@ -35,7 +35,7 @@ subtitle = "Science writing, translated books"
 
 - Chinese Society of Reproductive Medicine (since 2016)
 - Genetics Society of China — Member (since 2014)
+- Animal Ethics Center, Shandong University —Fellow (since 2013)
 - China Zoological Society — Member (since 2013)
-- Animal Ethics Center, Shandong University — Research Fellow (since 2013)
 - Shanghai Cell Biology Society — Member (since 2008)
 
