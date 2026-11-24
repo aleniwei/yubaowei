@@ -25,9 +25,6 @@ subtitle = "Research papers, scientific presentations & symposia"
 
 ## Presentations
 
-- Poster: A. Inoue et al. “Obtaining SNPs from Bovine Embryo Polar Body RNA-seq Data and Selecting Embryos with Specific SNPs” 134th Annual Meeting of the Japanese Society of Animal Science. Sept. 2026
-- Poster: R. Guo et al. “Establishment of a Model for Evaluating Embryonic Developmental Competence Using Minimally Invasive Maternal Transcript Detection and Machine Learning. 67th Annual Meeting of the Japan Society for Ova Research. June 2026
-- Poster: Longhua Guo et al. “Island-specific evolution of a sex-primed autosome in the planarian Schmidtea mediterranea”. Population, Evolutionary, and Quantitative Genetics Conference, June 2022
 - “Gene-Edited Babies and Bioethical Reflections”. 15th Annual Meeting of Chinese Association of Medicine (CARM). Aug. 2022. Xiamen
 - “Methylation aberration of imprinted genes in IVF mouse pre…”. Annual Meeting of the Society of Family Planning and Reproductive Health. Jan. 2022. Nanjing.
 - “Using CRISPR-Cas9 to culture placental organoid”. 14th Annual Meeting of Chinese Association of Medicine (CARM). Aug. 2021. Zhuhai.
