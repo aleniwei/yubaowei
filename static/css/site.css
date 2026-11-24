@@ -151,3 +151,53 @@ main h4 {
     font-variant-numeric: tabular-nums;
 }
 
+/* 强制统一 Home 页两个统计框的尺寸 */
+.page-home .home-visitor-counter,
+.page-home .home-total-pv {
+    width: 116px !important;
+    height: 70px !important;
+    min-width: 116px !important;
+    max-width: 116px !important;
+    min-height: 70px !important;
+    max-height: 70px !important;
+
+    padding: 6px 8px !important;
+    margin: 0 !important;
+    box-sizing: border-box !important;
+
+    float: none !important;
+    flex: 0 0 116px !important;
+
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 3px !important;
+
+    border-radius: 10px !important;
+    background: #f1edf7 !important;
+    border: 1px solid #e7e0ee !important;
+    text-align: center !important;
+}
+
+/* 统一统计框标题 */
+.page-home .home-visitor-counter
+  :is(.visitor-label, .pv-label, .traffic-label),
+.page-home .home-total-pv
+  :is(.visitor-label, .pv-label, .traffic-label) {
+    font-size: 13px !important;
+    font-weight: 500 !important;
+    line-height: 18px !important;
+}
+
+/* 统一数字 */
+.page-home .home-visitor-counter
+  :is(.visitor-number, .pv-number, .traffic-number),
+.page-home .home-total-pv
+  :is(.visitor-number, .pv-number, .traffic-number) {
+    font-size: 21px !important;
+    font-weight: 500 !important;
+    line-height: 25px !important;
+    margin: 0 !important;
+}
+
