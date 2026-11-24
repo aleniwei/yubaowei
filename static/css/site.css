@@ -89,43 +89,65 @@ main h3,
 main h4 {
     text-align: left;
 }
-.home-visitor-counter,
-.home-total-pv {
+
+/* ===== Home 统计框统一外观 ===== */
+
+/* 两个统计框的外层 */
+.page-home .home-visitor-counter,
+.page-home .home-total-pv {
     width: 110px !important;
+    min-width: 110px !important;
+    max-width: 110px !important;
     height: 72px !important;
+    min-height: 72px !important;
+
     box-sizing: border-box !important;
-    padding: 10px 8px !important;
+    padding: 8px !important;
     margin: 0 !important;
 
-    background: #f1edf7;
-    border: 1px solid #e7e0ee;
-    border-radius: 10px;
+    background: #f1edf7 !important;
+    border: 1px solid #e7e0ee !important;
+    border-radius: 10px !important;
 
     display: flex !important;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 3px !important;
+
+    text-align: center !important;
 }
 
-/* 标题字体统一 */
-.home-visitor-counter .visitor-label,
-.home-total-pv .visitor-label {
-    font-family: "Microsoft YaHei", Arial, sans-serif;
+/* 两个统计框的所有文字统一基础字体 */
+.page-home .home-visitor-counter *,
+.page-home .home-total-pv * {
+    font-family: var(--font) !important;
+    text-align: center !important;
+    letter-spacing: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* 标题：Visitors / Total PV */
+.page-home .home-visitor-counter
+  :is(.visitor-label, .pv-label, .traffic-label),
+.page-home .home-total-pv
+  :is(.visitor-label, .pv-label, .traffic-label) {
     font-size: 13px !important;
     font-weight: 500 !important;
-    line-height: 1.4 !important;
-    color: #625072;
+    line-height: 18px !important;
+    color: #625072 !important;
 }
 
-/* 数字字体统一 */
-.home-visitor-counter .visitor-number,
-.home-total-pv .visitor-number {
-    font-family: "Microsoft YaHei", Arial, sans-serif;
+/* 数字：16 / 90 */
+.page-home .home-visitor-counter
+  :is(.visitor-number, .pv-number, .traffic-number),
+.page-home .home-total-pv
+  :is(.visitor-number, .pv-number, .traffic-number) {
     font-size: 22px !important;
     font-weight: 500 !important;
-    line-height: 1.2 !important;
-    margin-top: 3px !important;
-    color: #76628d;
+    line-height: 26px !important;
+    color: #76628d !important;
     font-variant-numeric: tabular-nums;
 }
+
