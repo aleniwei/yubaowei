@@ -31,11 +31,5 @@ subtitle = "Science writing, translated books"
 - Chief Science Popularization Expert of Henan Province (2017–2019).
 - Science Communication Award, Chinese Academy of Sciences (2015).
 
-## Memberships
 
-- Chinese Society of Reproductive Medicine (since 2016)
-- Genetics Society of China — Member (since 2014)
-- Animal Ethics Center, Shandong University —Fellow (since 2013)
-- China Zoological Society — Member (since 2013)
-- Shanghai Cell Biology Society — Member (since 2008)
 
