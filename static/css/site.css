@@ -201,3 +201,71 @@ main h4 {
     margin: 0 !important;
 }
 
+/* Home: show Visitors only, aligned to the right */
+(() => {
+  if (!document.body.classList.contains("page-home")) return;
+
+  function updateCounters() {
+    const visitor = document.querySelector(".home-visitor-counter");
+
+    // Find the element displaying "Total PV"
+    const labels = [...document.querySelectorAll(
+      ".article-body span, .article-body div, .article-body strong"
+    )];
+
+    const pvLabel = labels.find(el =>
+      el.children.length === 0 &&
+      el.textContent.trim() === "Total PV"
+    );
+
+    if (pvLabel) {
+      const pvBox =
+        pvLabel.closest(".home-total-pv, .home-pv-counter, .traffic-card") ||
+        pvLabel.parentElement;
+
+      if (pvBox && !pvBox.contains(visitor)) {
+        pvBox.remove();
+      }
+    }
+
+    if (!visitor) return false;
+
+    // Move Visitors to the right side of Contact
+    visitor.style.setProperty("float", "right", "important");
+    visitor.style.setProperty("width", "116px", "important");
+    visitor.style.setProperty("min-width", "116px", "important");
+    visitor.style.setProperty("max-width", "116px", "important");
+    visitor.style.setProperty("height", "70px", "important");
+    visitor.style.setProperty("min-height", "70px", "important");
+    visitor.style.setProperty("max-height", "70px", "important");
+    visitor.style.setProperty("margin", "0 0 12px 18px", "important");
+    visitor.style.setProperty("padding", "6px 8px", "important");
+    visitor.style.setProperty("box-sizing", "border-box", "important");
+    visitor.style.setProperty("display", "flex", "important");
+    visitor.style.setProperty("flex-direction", "column", "important");
+    visitor.style.setProperty("align-items", "center", "important");
+    visitor.style.setProperty("justify-content", "center", "important");
+
+    const contact = [...document.querySelectorAll(".article-body h2")]
+      .find(el => el.textContent.trim().toLowerCase() === "contact");
+
+    if (contact) {
+      contact.insertAdjacentElement("afterend", visitor);
+    }
+
+    return !!pvLabel;
+  }
+
+  // Handle counters added asynchronously by existing scripts
+  if (!updateCounters()) {
+    const observer = new MutationObserver(() => {
+      if (updateCounters()) observer.disconnect();
+    });
+
+    observer.observe(document.body, {
+      childList: true,
+      subtree: true
+    });
+  }
+})();
+
