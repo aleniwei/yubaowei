@@ -89,3 +89,23 @@ main h3,
 main h4 {
     text-align: left;
 }
+.home-visitor-counter .visitor-label,
+.home-total-pv .visitor-label {
+    font-family: "Microsoft YaHei", Arial, sans-serif;
+    font-size: 13px !important;
+    font-weight: 500 !important;
+    line-height: 1.4 !important;
+    color: #625072;
+}
+
+/* 数字字体统一 */
+.home-visitor-counter .visitor-number,
+.home-total-pv .visitor-number {
+    font-family: "Microsoft YaHei", Arial, sans-serif;
+    font-size: 22px !important;
+    font-weight: 500 !important;
+    line-height: 1.2 !important;
+    margin-top: 3px !important;
+    color: #76628d;
+    font-variant-numeric: tabular-nums;
+}
