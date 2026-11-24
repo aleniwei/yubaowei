@@ -46,3 +46,12 @@ I collected blood samples from hundreds of patients with rheumatoid arthritis or
 ### Drug Resistance Mechanisms in Candida albicans
 
 Cultured drug-resistant and wild-type strains of Candida albicans, qualifying the phenotypes, extracted RNA and compared the expression levels and patterns of drug efflux genes and genes in related pathways.
+
+
+## Memberships
+
+- Chinese Society of Reproductive Medicine — Member (since 2016)
+- Genetics Society of China — Member (since 2014)
+- Animal Ethics Center, Shandong University —Fellow (since 2013)
+- China Zoological Society — Member (since 2013)
+- Shanghai Cell Biology Society — Member (since 2008)
